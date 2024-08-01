@@ -14,13 +14,12 @@ Stash of Banks is a Java-based application designed for managing banking operati
 
 ## 📸 Screenshots
 
-***COPY PASTE TO MAKE IT PUBLIC!!!***
-<img src="https://github.com/user-attachments/assets/48318c02-b3b8-47f7-99a9-dcdfc3b23f50" width="400" alt="image">
-<img src="https://github.com/user-attachments/assets/eadc4710-ee5c-4d06-b7f2-8a135457a03b" width="400" alt="image">
-<img src="https://github.com/user-attachments/assets/8b0aac63-9f52-46ad-92aa-0c52aec6b853" width="400" alt="image">
-<img src="https://github.com/user-attachments/assets/76b419a2-22a7-47d9-a6bb-3c0df0de086f" width="400" alt="image">
-<img src="https://github.com/user-attachments/assets/e8164931-18b7-4f40-b5b0-9bfe6a61f561" width="400" alt="image">
-<img src="https://github.com/user-attachments/assets/a55d087f-a4c0-423b-b7a2-e503a8c86b71" width="400" alt="image">
+<img src="https://github.com/user-attachments/assets/c74df05d-d396-4b33-9052-f8b63c9a7aa8" width="400" alt="image">
+<img src="https://github.com/user-attachments/assets/2adae9f2-0d04-4c79-bcdd-0c6437b50d0f" width="400" alt="image">
+<img src="https://github.com/user-attachments/assets/4e5e4c6c-bf98-45bd-be51-4efbab543f7f" width="400" alt="image">
+<img src="https://github.com/user-attachments/assets/4a3bd352-4a25-460f-8ca8-60fbbd667d9b" width="400" alt="image">
+<img src="https://github.com/user-attachments/assets/b4ab0b5d-1140-4545-a99b-25aa7a627409" width="400" alt="image">
+<img src="https://github.com/user-attachments/assets/3b9c18ab-acdc-4c72-9eba-25e09303c10f" width="400" alt="image">
 
 ## ⛳ Getting Started
 

@@ -40,6 +40,16 @@ Stash of Banks is a Java-based application designed for managing banking operati
 
 3. **Launch the application.**
    - Double-click the application icon to launch it.
+   
+### Account Roster:
+| Acct No.      | Name            | Balance  |
+|---------------|-----------------|----------|
+| 575-13-575    | Barbarian King  | 20000.00 |
+| 242-24-242    | Monk            | 15000.00 |
+| 797-35-797    | Shield Maiden   | 10000.00 |
+| 123-45-678    | Skeleton King   | 5555.00  |
+| 987-65-432    | Royal Champion  | 2222.00  |
+| 999-99-999    | Archer Queen    | 1000.00  |
 
 ## 🔁 Dependencies
 
